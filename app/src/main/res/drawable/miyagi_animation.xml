@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <animation-list xmlns:android="http://schemas.android.com/apk/res/android"
     android:oneshot="false" >
-
+    <item
+        android:drawable="@drawable/miyagi__1_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__2_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__3_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__4_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__5_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__6_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__7_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__8_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__9_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__10_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__11_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__12_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__13_"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/miyagi__14_"
+        android:duration="200" />
 </animation-list>
