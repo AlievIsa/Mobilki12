@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Mobilki12" parent="Theme.Material3.Dark">
+        <!-- Primary brand color. -->
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/head</item>
+        <!-- Customize your theme here. -->
+        <item name="toolbarStyle">@style/MyAppToolbar</item>
+    </style>
+    <style name="MyAppToolbar" parent="@style/Widget.Material3.Toolbar">
+        <item name="android:background">@color/head</item>
+    </style>
+</resources>

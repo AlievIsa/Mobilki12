@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Miyagi Player</string>
+    <string name="home">Home</string>
+    <string name="audio">Audio</string>
+    <string name="clips">Clips</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
